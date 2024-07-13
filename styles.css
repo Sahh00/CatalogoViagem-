@@ -1,0 +1,101 @@
+
+
+
+/* -------- FONTE  --------*/
+header {
+    font-family: 'Inter';
+    font-size: 16px;
+}
+
+main {
+    font-family: 'Inter';
+    font-size: 16px;
+}
+
+footer {
+    font-family: 'Inter';
+    font-size: 16px;
+}
+
+/* -------- NAVBAR --------*/
+
+
+.navbar{
+    background-color: #141a34;     
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+   
+}
+
+.navbar li{
+    list-style: none;
+    display: block;
+}
+
+.navbar li:hover{
+    background-color: #161616;
+    border-radius: 8px;
+}
+
+.divcenter {
+    text-align: center;
+    margin: auto;
+}
+
+.teuste{
+    color: black;
+    background-color: red;
+}
+
+
+
+/* -------- -------- --------*/
+
+
+
+/* -------- FOOTER --------*/
+footer{
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    
+    
+}
+
+.footer-div{
+    background-color: #141a34;
+}
+
+.footer-div a{
+    text-decoration: none;
+}
+
+.logo-instagram{
+    fill: white;
+}
+
+.logo-whatsapp{
+    fill: white;
+}
+
+/* -------- -------- --------*/
+
+
+
+.tile_porto_galinhas{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+
+/* -------- Slider --------*/
+
+.container-fluid {
+    padding: 0;
+}
+
+
